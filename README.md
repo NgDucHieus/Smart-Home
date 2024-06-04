@@ -30,7 +30,7 @@ Smart Home Automation goes beyond simple on/off controls by integrating a Real T
 The entire system is custom-made with wiring and placements planned according to requirements, developed to resemble a room in a house.
  ![!\[Alt text\](image.png)](Image/Overview.jpg)
 ## Schematic
-Components can be assembled and connected as shown in the schematic (provide a link or image to the schematic here).
+Components can be assembled and connected as shown in the schematic.
  ![!\[Alt text\](image.png)](Image/Schematic.jpg)
 
 ## Software
