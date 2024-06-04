@@ -28,9 +28,10 @@ Smart Home Automation goes beyond simple on/off controls by integrating a Real T
 
 ## System Overview
 The entire system is custom-made with wiring and placements planned according to requirements, developed to resemble a room in a house.
-
+ ![!\[Alt text\](image.png)](Image/Overview.png)
 ## Schematic
 Components can be assembled and connected as shown in the schematic (provide a link or image to the schematic here).
+ ![!\[Alt text\](image.png)](Image/Schematic.png)
 
 ## Software
 ### Arduino IDE Setup
@@ -55,7 +56,7 @@ Components can be assembled and connected as shown in the schematic (provide a l
 
 ### Android App
 - The Android app is developed on the [MIT App Inventor](http://appinventor.mit.edu/) platform.
-
+ ![!\[Alt text\](image.png)](Image/App.png)
 ## Working
 ### Connecting to App
 - **Connect/Disconnect**: Use the button in the app to connect with the system via Bluetooth. The ESP32 microcontroller has a built-in Bluetooth module.
