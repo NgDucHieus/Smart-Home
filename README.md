@@ -56,7 +56,7 @@ Components can be assembled and connected as shown in the schematic.
 
 ### Android App
 - The Android app is developed on the [MIT App Inventor](http://appinventor.mit.edu/) platform.
- ![!\[Alt text\](image.png)](Image/App.jpg)
+ ![!\[Alt text\](image.png)](Image/App1.jpg)
 ## Working
 ### Connecting to App
 - **Connect/Disconnect**: Use the button in the app to connect with the system via Bluetooth. The ESP32 microcontroller has a built-in Bluetooth module.
